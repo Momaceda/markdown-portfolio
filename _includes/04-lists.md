@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# List of my favorite things:
+
+- Number1
+- Number2
+- Number3
+- Number4
